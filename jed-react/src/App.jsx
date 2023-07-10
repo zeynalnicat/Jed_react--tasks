@@ -4,6 +4,7 @@ import Task2 from "./components/Tasks/Task2"
 import DuringCourse from "./components/DuringCourse/Practise1"
 import Calculator from "./components/DuringCourse/Practise2"
 import GetCountry from "./components/Tasks/Task3"
+import { Route , Routes} from "react-router"
 
 function App() {
   return <>
@@ -12,7 +13,13 @@ function App() {
   {/* {/* <Task2> </Task2> */}
   {/* <DuringCourse></DuringCourse> */}
   {/* <Calculator></Calculator> */}
-  <GetCountry></GetCountry>
+  {/* <GetCountry></GetCountry> */}
+  <Routes>
+    <Route path="/" element={<div>Home Page</div>}></Route>
+    <Route path="/calculator" element={<Calculator/>}></Route>
+    <Route path="/getcountry" element={<GetCountry/>}></Route>
+
+  </Routes>
   </>  
 }
 
