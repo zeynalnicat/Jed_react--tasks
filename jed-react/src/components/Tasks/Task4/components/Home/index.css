@@ -1,0 +1,24 @@
+.productContainer {
+    border: 1px solid #ccc;
+    width: 400px;
+    transition: all 0.5s;
+    text-decoration: none;
+    color:black;
+   
+}
+
+.productContainer img {
+    width: 100%;
+    height: 400px;
+}
+
+.productContainer:hover {
+    scale: 0.8;
+}
+
+.productAbout{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

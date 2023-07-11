@@ -1,0 +1,10 @@
+.singleProduct{
+    width: 500px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin:0 auto;
+}
+
+.singleProduct img{
+    width: 100%;
+}

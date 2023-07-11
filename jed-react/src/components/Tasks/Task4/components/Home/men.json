@@ -1,0 +1,71 @@
+{
+    "menFashion": [
+      {
+        "id": 0,
+        "image": "https://www.fashionbeans.com/wp-content/uploads/2021/11/Luca_Faloni_Moss-Green-Brushed-Cotton-Shirt_Editorial_Hero_Desktop_Made_in_Italy_2.jpeg",
+        "name": "Men's Shirt",
+        "cost": "$29.99",
+        "description": "A classic moss green brushed cotton shirt made in Italy.",
+        "brand": "Luca Faloni",
+        "color": "Moss Green",
+        "size": ["S", "M", "L", "XL"],
+        "rating": 4.5
+      },
+      {
+        "id": 1,
+        "image": "https://target.scene7.com/is/image/Target/GUEST_db71888b-bc55-4292-80e7-dfcdd3e9a9ad?wid=668&qlt=80&fmt=webp",
+        "name": "Men's Jeans",
+        "cost": "$49.99",
+        "description": "Classic fit denim jeans in a dark wash.",
+        "brand": "Target",
+        "color": "Dark Wash",
+        "size": ["28", "30", "32", "34"],
+        "rating": 4.2
+      },
+      {
+        "id": 2,
+        "image": "https://cdn.shopify.com/s/files/1/0712/1227/files/Mens-Breaker-Boot-Cognac-Lifestyle-2023-2-9-6_ce0e0a62-9007-44d8-9a7c-ae7e7ab3a2c9.jpg?v=1683137830",
+        "name": "Men's Shoes",
+        "cost": "$79.99",
+        "description": "Classic leather boots in a stylish cognac color.",
+        "brand": "Men's Shoes Co.",
+        "color": "Cognac",
+        "size": ["7", "8", "9", "10"],
+        "rating": 4.7
+      },
+      {
+        "id": 3,
+        "image": "https://www.etonline.com/sites/default/files/images/2022-11/home-half-hero-split-mens-best-sellers-holiday.jpg",
+        "name": "Men's Watch",
+        "cost": "$99.99",
+        "description": "Sleek stainless steel watch with a leather strap.",
+        "brand": "Timeless Watches",
+        "color": "Silver",
+        "size": ["One Size"],
+        "rating": 4.9
+      },
+      {
+        "id": 4,
+        "image": "https://cdn11.bigcommerce.com/s-scgdirr/images/stencil/560x736/products/17595/92077/C1347_-_Moss_Green__69889.1676391063.jpg?c=2",
+        "name": "Men's Sweater",
+        "cost": "$59.99",
+        "description": "Warm and cozy sweater for the colder seasons.",
+        "brand": "Fashion Co.",
+        "color": "Navy Blue",
+        "size": ["S", "M", "L"],
+        "rating": 4.3
+      },
+      {
+        "id": 5,
+        "image": "https://www.themodestman.com/wp-content/uploads/2020/02/Chinos-for-short-men.jpg",
+        "name": "Men's Chinos",
+        "cost": "$39.99",
+        "description": "Versatile and comfortable chinos for a smart-casual look.",
+        "brand": "Style Plus",
+        "color": "Khaki",
+        "size": ["30", "32", "34", "36"],
+        "rating": 4.6
+      }
+    ]
+  }
+  
