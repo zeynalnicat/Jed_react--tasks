@@ -6,6 +6,8 @@ import Calculator from "./components/DuringCourse/Practise2"
 import GetCountry from "./components/Tasks/Task3"
 import { Route , Routes} from "react-router"
 import Routing from "./components/Tasks/Task4/components/Routing"
+import { BrowserRouter } from "react-router-dom"
+import Context from "./components/Tasks/Task5/context/Context"
 
 function App() {
   return <>
@@ -21,7 +23,10 @@ function App() {
     <Route path="/getcountry" element={<GetCountry/>}></Route>
 
   </Routes> */}
-  <Routing/>
+
+  <Context>
+    <Routing/>
+  </Context>
   </>  
 }
 
